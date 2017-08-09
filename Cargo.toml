@@ -1,0 +1,8 @@
+[package]
+name = "htkddk"
+version = "0.1.0"
+authors = ["Bjarke Sørensen <bs@wasd.dk>"]
+
+[dependencies]
+rocket = "0.3.0"
+rocket_codegen = "0.3.0"
